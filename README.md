@@ -14,8 +14,7 @@ This is a Fully Functional Full Stack Covid 19 Tracker. This Tracker is responsi
 * Open API : [disease.sh](https://disease.sh/docs/#/)
  
 
-Build and Execution
--------------------------
+# Build and Execution
 [Here](https://covid19-website-6d2a6.web.app/) is the live deployment of the website.
 
 # Preview
